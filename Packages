@@ -1,0 +1,53 @@
+Package: com.Builetuananh.batterybuddy
+Version: 1.0.10
+Architecture: iphoneos-arm64
+Maintainer: Builetuananh
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename: ./debs/dev.Builetuananh.batterybuddy_1.3.5_iphoneos-arm64.deb
+Size: 27752
+MD5sum: d56fbc22b9ed3f663fef1e48293efc1b
+SHA1: 86a27b2fab4266e4394494310e33a1177c02bb47
+SHA256: 83cb344b44fccb9187fc4bf75fa023df83ba1c24a768f4baf84c1d09daa6c9fe
+Section: System
+Description: A modern AppList alternative
+Tag: role::developer
+Author: Builetuananh
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Name: Battery Buddy
+
+Package: com.Builetuananh.admin-builetuananh
+Version: 1.0.10
+Architecture: iphoneos-arm
+Maintainer: Builetuananh
+Installed-Size: 388
+Depends: firmware (>=7.0)
+Filename: ./debs/net.Builetuananh-admin-rootless_1.1-3_iphoneos-arm64.deb
+Size: 46768
+MD5sum: 1667c6554431e6b6e5ef6af26bc70123
+SHA1: 414c8470bed7b498d60cf5ebb7228baacad2317f
+SHA256: d621b52c6180ada141b31cdc4389faed1ee8059c0961395a512779ee5f8d9f02
+Section: System
+Description: A modern AppList alternative
+Tag: role::developer
+Author: Builetuananh
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Name: admin-builetuananh
+
+Package: com.Builetuananh.dynamicpeninsula
+Version: 1.0.11
+Architecture: iphoneos-arm64
+Maintainer: Builetuananh
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename: ./debs/net.Builetuananh.dynamicpeninsula-rootless_0.6-25_iphoneos-arm64.deb
+Size: 26884
+MD5sum: 1874e0da98f00417adab6dee7134f77c
+SHA1: 78b40438355e042de1ef082fcd9add718f7e1ec4
+SHA256: 5835a6b0eacd5d99d272b3f74a744b28b1c4c16ada03aade36d0a636bca5e1f0
+Section: System
+Description: A modern AppList alternative
+Tag: role::developer
+Author: Builetuananh
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Name: dynamic peninsula
